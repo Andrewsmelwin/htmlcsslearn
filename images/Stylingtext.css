@@ -1,0 +1,32 @@
+/* p{ 
+    text-transform: capitalize;
+}
+
+h1{
+    text-decoration-line: underline;
+    text-decoration-color: aquamarine;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 10px;
+}
+/* id styling */
+/* #featured{ 
+background-color: gold;
+font-size: 20px;
+}
+/* Class styling "id and class are used to target specific element" */
+/* .tag { 
+text-decoration: underline dotted;
+
+color: black;
+
+}
+#cast{
+list-style-type: "\1F44D";
+list-style-position: inside;
+list-style-image: ;
+}
+*/
+
+p {
+    font-family: sans-serif;
+}
